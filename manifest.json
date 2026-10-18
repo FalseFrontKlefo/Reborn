@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-18T00:48:49Z",
+  "updated": "2026-10-18T01:46:40Z",
   "files": {
     "FalseFront.exe": {
-      "sha256": "9D69FED374698E5BB6A8E1E4BC1D943B9EF7812E690EF7BA5408BF57F67ACF37",
+      "sha256": "21D2D75F569EF2E99D5DA26A583F80848439A31E822D83B49FC5E1BE48E04C29",
       "url": "https://github.com/FalseFrontKlefo/Reborn/releases/download/1.0.6/FalseFront.exe"
     }
   },
   "mods": {
-    "sha256": "832DD78ED294AB02B0516A599A0E8F209D199AF31371D577FB88C8C29B2A2A28",
+    "sha256": "2253D27BA930A955538E7E8E0B54EF45BC574AFF5953319B74548C0E432FD0A3",
     "url": "https://github.com/FalseFrontKlefo/Reborn/releases/download/1.0.6/Mods.zip"
   }
 }
