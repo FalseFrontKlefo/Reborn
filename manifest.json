@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-25T02:18:16Z",
+  "updated": "2026-10-25T02:28:00Z",
   "files": {
     "FalseFront.exe": {
-      "sha256": "3B12BD610EB70B33EA8B5AE5596771F806FCB71246C1EC18BE5EECB9887D103D",
+      "sha256": "A165F063E96DBD3FE8557177DE0066D3BBDCD743F046736EFFB5735A89358632",
       "url": "https://github.com/FalseFrontKlefo/Reborn/releases/download/1.1.1/FalseFront.exe"
     }
   },
